@@ -1,42 +1,17 @@
-# Linux fundamentals
+# BAsic Linux Commands
 
-### The AWS Console
-![aws console](./aws_console.PNG)
+### Create a directory on the root folder
+![example directory](./mkdir_example.PNG)
 
-### Launching EC2 Instance
-![Launch Instance](./launch_instance.PNG)
+### Basic Commands
+![Basic commands](./basic_commands.PNG)
 
-### MobaXterm Installed
-![MobaXterm](./MobaXterm.PNG)
+### Running Basic File Commands
+![Basic file command](./Basic_file_commands.PNG)
 
-### MobaXterm Terminal
-![Terminal](./terminal.PNG)
+### Creating the Photo Directories
+![Photo Dir](./mkdir_photo.PNG)
 
-### AWS EC2 Instance Console
-![EC2 Console](./instance_console.PNG)
-
-### SSH into the terminal
-![SSH Terminal](./ssh_terminal.PNG)
-
-### Now into the linux server via SSH
-![SSH Success](./ssh_success.PNG)
-
-### Apt update command
-![apt update](./apt_update.PNG)
-
-### Apt install tree command
-![install tree](./install_tree.PNG)
-
-### Running the tree command
-![tree download](./tree_download.PNG)
-
-### Running the remove tree command
-![remove command](./remove_tree.PNG)
-
-### Apt upgrade command
-![apt upgrade](./apt_upgrade.PNG)
-
-### Running Apt install Apache command as an example
-![Apache2](./example_apache2.PNG)
-
+### Using CP and MV commands
+![user dir](./usr_dir.PNG)
 
