@@ -1,17 +1,26 @@
-# BAsic Linux Commands
+# Linux Text Editor
 
-### Create a directory on the root folder
-![example directory](./mkdir_example.PNG)
+### Ope a new file using the vim command
+![open a file](./open_a_new_file.PNG)
 
-### Basic Commands
-![Basic commands](./basic_commands.PNG)
+### Navigating through the editor
+![navigate](./navigate.PNG)
 
-### Running Basic File Commands
-![Basic file command](./Basic_file_commands.PNG)
+### Delete a Character by pressing the X key in the Normal mode
+![delete char](./delete_a_char.PNG)
 
-### Creating the Photo Directories
-![Photo Dir](./mkdir_photo.PNG)
+### Delete a Line of Characters by pressing the D key double times in the Normal mode
+![delete line](./deleted_a_line.PNG)
 
-### Using CP and MV commands
-![user dir](./usr_dir.PNG)
+### Undo the changes
+![save changes](./save_changes1.PNG)
+
+### Using the Nano Editor
+![nano editor](./Nano_editor.PNG)
+
+### Opening an Existing File
+![open existing file](./open_existing_file.PNG)
+
+### All work is now done on the terminal
+![Done](./done.PNG)
 
