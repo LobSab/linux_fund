@@ -1,26 +1,39 @@
-# Linux Text Editor
+# Advanced Linux Commands
 
-### Ope a new file using the vim command
-![open a file](./open_a_new_file.PNG)
+### The ls -latr command
+![ls -latr](./ls_-latr.PNG)
 
-### Navigating through the editor
-![navigate](./navigate.PNG)
+### The chmod command
+![chmod](./chmod.PNG)
 
-### Delete a Character by pressing the X key in the Normal mode
-![delete char](./delete_a_char.PNG)
+### The group permissions
+![grp perm.](./grp_perm.PNG)
 
-### Delete a Line of Characters by pressing the D key double times in the Normal mode
-![delete line](./deleted_a_line.PNG)
+### Creating a new user john doe
+![user john](./usr_johndoe.PNG)
 
-### Undo the changes
-![save changes](./save_changes1.PNG)
+### The John Doe User
+![John Doe](./john_doe.PNG)
 
-### Using the Nano Editor
-![nano editor](./Nano_editor.PNG)
+### John Doe New password
+![new password](./new_passwd.PNG)
 
-### Opening an Existing File
-![open existing file](./open_existing_file.PNG)
+### The DevOPs group
+![the devops](./devops_group.PNG)
 
-### All work is now done on the terminal
-![Done](./done.PNG)
+### The Mary User
+![Mary user](./mary.PNG)
+
+### The Mohammed User
+![Mohammed](./mohammed.PNG)
+
+### The Ravi User
+![Ravi user](./ravi.PNG)
+
+### The Tunji User
+![Tunji user](./tunji.PNG)
+
+### The Sofia User
+![Sofia user](./sofia.PNG)
+
 
