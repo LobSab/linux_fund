@@ -1,7 +1,7 @@
 # Linux Shell Script Comment
 
-### Creating the shell-scripting file with comments
-![shell scripting comments](./shell_script_comment.PNG)
+### Creating the commented shell-scripting file
+![commented shell scripting](./coomented-script.PNG)
 
-### Running the shell scripting comments
-![running the shell script](./running_script.PNG)
+### Running the commented shell script
+![running the commented shell script](./runningcommented.PNG)
