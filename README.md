@@ -1,7 +1,7 @@
-# Linux Shell Script
+# Linux Shell Script Comment
 
-### Creating the shell-scripting folder and the shell scripting file
-![first shell scripting](./first_shell_scripting.PNG)
+### Creating the shell-scripting file with comments
+![shell scripting comments](./shell_script_comment.PNG)
 
-### Running the shell scripting command
-![my first shell scripting command](./my_first_shell_script.PNG)
+### Running the shell scripting comments
+![running the shell script](./running_script.PNG)
