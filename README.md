@@ -6,6 +6,13 @@ Error handling is an integral aspect of shell scripting. It requires a clear und
 ### Create S3 Bucket Script Sample
 ![Create S3 Bucket](./create_s3_bucket_script.PNG)
 
-### Create S3 Bucket Demo
-![Create S3 Bucket Demo](./create_s3_bucket_demo.PNG)
+### Create S3 Bucket - Already Exist
+![Create S3 Bucket Demo](./bucket-exist.PNG)
+
+### Create S3 Bucket - Successful
+![Create S3 Bucket Demo](./bucket-successful.PNG)
+
+
+### AWS S3 Bucket - Dashboard
+![Create S3 Bucket Demo](./aws-buckets.PNG)
 
