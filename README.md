@@ -1,18 +1,18 @@
-# Error Handling in shell Scripting
+# CAPSTONE PROJECT: Bash Script for Generating a Multiplication Table
 
-### Summarizing the concept of error handling
-Error handling is an integral aspect of shell scripting. It requires a clear understanding of the errors, it sources and behaviour during scripting. Identifying potentials errors and proper documentations are key to adequate error management in shell scripting.
+### Summarizing the concept of loop functions in bash scripting
+Create a bash script that generates a multiplication table for a number entered by the user. This project will help practice using loops, handling user input, and applying conditional logic in bash scripting.
 
-### Create S3 Bucket Script Sample
-![Create S3 Bucket](./create_s3_bucket_script.PNG)
+### Writing the script using nano editor
+![Writing the script](./multiplication_table.PNG)
 
-### Create S3 Bucket - Already Exist
-![Create S3 Bucket Demo](./bucket-exist.PNG)
+### Changing the file permissions
+![chmod](./change_permission.PNG)
 
-### Create S3 Bucket - Successful
-![Create S3 Bucket Demo](./bucket-successful.PNG)
+### Running the first demo
+![Multiplication table demo](./multiplication_demo.PNG)
 
 
-### AWS S3 Bucket - Dashboard
-![Create S3 Bucket Demo](./aws-buckets.PNG)
+### Running the partial table view with set of ranges
+![Partial View](./multiplication_partial.PNG)
 
